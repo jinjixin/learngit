@@ -1,2 +1,3 @@
-my name is 金继鑫
-我今年28岁
+my name is jinjixin
+i am 28 years old
+hahaha
